@@ -5,6 +5,7 @@
 [![Fameli GitHub stats](https://github-readme-stats.vercel.app/api?username=marcofameli&theme=vue-dark)]
 
 ###  ☕ Tecnologias que eu estudo e prático no dia a dia ☕
+### Codando desde dezembro de 2023 e seguindo 👊
 
 <div style="display: inline-block;">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />

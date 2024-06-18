@@ -1,10 +1,10 @@
-### Prazer!, sou Marco Fameli, devorador de códigos e entusiasta em Java 👩‍💻☕
+### Prazer! sou Marco Fameli, gosto muito de códigos e Java ☕☕☕👩‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-almeida-fameli-49a823236/)
 
 [![Fameli GitHub stats](https://github-readme-stats.vercel.app/api?username=marcofameli&theme=vue-dark)]
 
-### Tecnologias que eu estudo e prático no dia a dia
+###  ☕ Tecnologias que eu estudo e prático no dia a dia ☕
 
 <div style="display: inline-block;">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />

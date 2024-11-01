@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-almeida-fameli-49a823236/)
 
-[![Fameli GitHub stats](https://github-readme-stats.vercel.app/api?username=marcofameli&theme=vue-dark)]
+[![Fameli GitHub stats](https://github-readme-stats.vercel.app/api?username=marcofameli&theme=vue-dark)
 
 ###  ☕ Tecnologias que eu estudo e prático no dia a dia ☕
 ### Codando desde dezembro de 2023 e seguindo 👊

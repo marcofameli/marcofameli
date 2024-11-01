@@ -1,4 +1,4 @@
-### Prazer! sou Marco Fameli, gosto muito de backend e estrutura de dados , e sou do Java ☕👩‍💻
+### Prazer! me chamo Marco Fameli, sou estudante de programação, faço faculdade de analise de sistemas e tenho uma grande paixão de praticar e estudar programação constantemente ☕👩‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-almeida-fameli-49a823236/)
 

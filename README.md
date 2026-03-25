@@ -1,4 +1,4 @@
-### Prazer! me chamo Marco Fameli, faço faculdade de analise de sistemas e tenho uma grande paixão de praticar e estudar programação constantemente, atualmente estou estagiando no maior banco da América Latina
+### Prazer! me chamo Marco Fameli, faço faculdade de analise de sistemas e tenho uma grande paixão de praticar e estudar programação constantemente, atualmente sou engenheiro de software jr no maior banco da América Latina
 ☕👩‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcofameli/)
